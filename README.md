@@ -6,7 +6,7 @@
 </div>
 ~Ah, Oi. Meu nome é Kauã. :boy:
   <li>💻 | Developer "ético"
-  <li>🎨 | Designer.
+  <li>🎨 | Designer Geral.
   <li>:date: | Tenho 17y.
   <li>🌍 | Moro em SC-Florianopolis.
      

@@ -33,14 +33,14 @@
     <a href="https://www.youtube.com/channel/UC5DwmqzgzWo2Jqbbh3-TixA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
     <a href="https://www.instagram.com/pixelon33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
  	  <a href="https://www.twitch.tv/pixelonnn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
-    <a href = "mailto:Frigierikaua33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:aindanao"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kauafrigieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
    <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@Pixelon%233321-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Conta do Pixelon" /></a>
    
   ##
   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIXELONGAKNII&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
-  <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png">
+ <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886744099695263754/2dz6EZS_LXve8zZh6qIGWZnnh3XfjCiHAdCoa2tpn6NFTjgseBMqh0dRqI2UOqvDLg3eYnqyxJcSwClJgIG4aQ.gif">
 

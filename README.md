@@ -51,6 +51,26 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Pff+tente+não+stalkear+muito+KKKJJ.)](https://git.io/typing-svg)
    
+   <details> <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
+<p>200g de farinha de trigo sem fermento</p>
+<p>250 ml de água</p>
+<p>50g de manteiga</p>
+<p>1 Casquinha de limão</p>
+<p>Sal q.b.</p>
+<p>3 ovos</p>
+<p>Óleo para fritar</p>
+<p>Açúcar para polvilhar</p>
+<p>Canela para polvilhar</p>
+      
+<strong>Preparação:</strong>
+<p>1. Num tacho leve ao lume a água.</p>
+<p>Tempere com umas pedrinhas de sal.</p>
+<p>Junte a casca de limão e a manteiga.</p>
+<p>Deixe ferver.</p>
+<p>2. Logo que comece a ferver, retire a casca de limão e adicione a farinha.</p>
+<p>Mexa até descolar do tacho.</p>
+<p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> </details>
+   
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIXELONGAKNII&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
  <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

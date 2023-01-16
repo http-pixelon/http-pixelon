@@ -6,6 +6,7 @@
 </div>
 
 I'm a Front-end web developer and UX/UI Designer. I have 2 years of experience in the field.
+
 I love programming, it's a passion I've had since I was young, I've always enjoyed playing with code and seeing how things work. Programming allows me to create something from scratch and see my ideas come true.
 
 [![Typing

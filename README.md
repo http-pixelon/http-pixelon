@@ -21,6 +21,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
 </ul>
 
 :speech_balloon: Me adicione no Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
+<details> <summary><strong>🍡 Discord Details (Clique aqui)</strong></summary> <p align="left"> <h2>Veja o meu perfil do Discord!</h2> <div>
+    
+  <a href="https://discord.com/users/230834721372766208" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/230834721372766208?bg=151515&borderRadius=5px" alt="Discord Status"/>
+</a>
+   
+   </div>  </p> </details>
 
 <!-- Espero que você não esteja copiando nada meu. -->
 

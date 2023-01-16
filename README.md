@@ -38,12 +38,13 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   ##
   
   <div> 
+   <!-- Pare mano, não copie nada. vaza! -->
     <a href="https://www.youtube.com/channel/UC5DwmqzgzWo2Jqbbh3-TixA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
     <a href="https://www.instagram.com/pixelon33/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
  	  <a href="https://www.twitch.tv/pixelonnn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
     <a href = "mailto:aindanao"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/kauafrigieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
-   <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@Pixelon%233321-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Conta do Pixelon" /></a>
+   <!-- <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@Pixelon%233321-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Conta do Pixelon" /></a> -->
    
   ##
    

@@ -78,7 +78,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Pff+tente+não+s
 <p>Mexa até descolar do tacho.</p>
 <p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> </details>
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIXELONGAKNII&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httppixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
  <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886744099695263754/2dz6EZS_LXve8zZh6qIGWZnnh3XfjCiHAdCoa2tpn6NFTjgseBMqh0dRqI2UOqvDLg3eYnqyxJcSwClJgIG4aQ.gif">
@@ -94,10 +94,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Cuidado+com+a+mi
    
    <h3 align="left">📌 REPOSITORIOS FAV. K33 </h3> <!-- Pq você está aqui ainda? suma daq random. -->
    
-   [![Card-PxnStats-K33-1](https://github-readme-stats.vercel.app/api/pin/?username=PIXELONGAKNII&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/PIXELONGAKNII/PasswordGenerator-K33)
-   [![Card-PxnStats-K33-2](https://github-readme-stats.vercel.app/api/pin/?username=PIXELONGAKNII&repo=ClonerSite-K33.py&theme=blue-green)](https://github.com/PIXELONGAKNII/ClonerSite-K33.py)
-   [![Card-PxnStats-K33-3](https://github-readme-stats.vercel.app/api/pin/?username=PIXELONGAKNII&repo=PixelBot.js-01K33&theme=blue-green)](https://github.com/PIXELONGAKNII/PixelBot.js-01K33)
-   [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=PIXELONGAKNII&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/PIXELONGAKNII/PasswordGenerator-K33)
+   [![Card-PxnStats-K33-1](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/httppixelon/PasswordGenerator-K33)
+   [![Card-PxnStats-K33-2](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=ClonerSite-K33.py&theme=blue-green)](https://github.com/httppixelon/ClonerSite-K33.py)
+   [![Card-PxnStats-K33-3](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PixelBot.js-01K33&theme=blue-green)](https://github.com/httppixelon/PixelBot.js-01K33)
+   [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/httppixelon/PasswordGenerator-K33)
    
 <!-- Script completo feito por Pixelon. -->
 <!-- by pixelon -->

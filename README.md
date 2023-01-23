@@ -99,5 +99,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Cuidado+com+a+mi
    [![Card-PxnStats-K33-3](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PixelBot.js-01K33&theme=blue-green)](https://github.com/httppixelon/PixelBot.js-01K33)
    [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/httppixelon/PasswordGenerator-K33)
    
+   ## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+<p align = "center">
+<img src = "./imgs_pxn/didnt-ask-ratio.gif">
+  </p>
 <!-- Script completo feito por Pixelon. -->
 <!-- by pixelon -->

@@ -100,9 +100,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Cuidado+com+a+mi
    [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=httppixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/httppixelon/PasswordGenerator-K33)
    
    ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=federicoslongo&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 <p align = "center">
-<img src = "./imgs_pxn/imgsk33_3.gif">
+<img src = "./imgs_pxn/imgsk33 (3).gif">
   </p>
 <!-- Script completo feito por Pixelon. -->
 <!-- by pixelon -->

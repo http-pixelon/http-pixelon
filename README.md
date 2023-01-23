@@ -1,5 +1,5 @@
 ## 🎏 Pixelon | K33
-   <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886744104661311498/chika-dance.gif">
+   <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
 <h3 align="left">:gem: Welcomee to the best Github profile!! 🥵 :p </h3>
 <ul>
@@ -81,7 +81,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Pff+tente+não+s
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httppixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
  <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886744099695263754/2dz6EZS_LXve8zZh6qIGWZnnh3XfjCiHAdCoa2tpn6NFTjgseBMqh0dRqI2UOqvDLg3eYnqyxJcSwClJgIG4aQ.gif">
+   <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (2).gif">
 
 <div>
  

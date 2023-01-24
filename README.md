@@ -31,7 +31,26 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
 
 <!-- Espero que você não esteja copiando nada meu. -->
 
+<div style="display: inline_block"><br>
+   
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=nodejs"/>
+    <img src="https://skillicons.dev/icons?i=typescript"/>
+    <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=react"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=mongodb"/>
+    <img src="https://skillicons.dev/icons?i=blender"/>
+   
+</div>
+
+<!--
   <div style="display: inline_block"><br>
+<img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,typescript,python,react,linux," />
   <img align="center" alt="PXN-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PXN-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PXN-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -41,7 +60,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   <img align="center" alt="PXN-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    
 </div>
-
+-->
   ##
   
   <div> 

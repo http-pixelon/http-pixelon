@@ -5,9 +5,9 @@
 <ul>
 </div>
 
-I'm a Front-end web developer and UX/UI Designer. I have 2 years of experience in the field.
+> I'm a `Front-end web developer` and `UX/UI Designer.` I have 2 years of experience in the field.
 
-I love programming, it's a passion I've had since I was young, I've always enjoyed playing with code and seeing how things work. Programming allows me to create something from scratch and see my ideas come true.
+> *I love programming*, it's a passion I've had since I was young, I've always enjoyed playing with code and seeing how things work. _Programming_ allows me to create something from scratch and see my ideas come true.
 
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+Kauã.)](https://git.io/typing-svg)
@@ -77,6 +77,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Pff+tente+não+s
 <p>2. Logo que comece a ferver, retire a casca de limão e adicione a farinha.</p>
 <p>Mexa até descolar do tacho.</p>
 <p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> </details>
+
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httppixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
  <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->

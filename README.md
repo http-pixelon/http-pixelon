@@ -75,7 +75,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   ##
    
   [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random,+pare+de+stalkear+🥱.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](https://git.io/typing-svg)
    
    <details> <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
 <p>200g de farinha de trigo sem fermento</p>
@@ -105,8 +105,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random,+par
 
 <div>
  
+   <!--
    [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=Cuidado+com+a+minha+snake+viu+vadia.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+minha+snake)](https://git.io/typing-svg) -->
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <!-- Preciso fazer o meu. -->
  

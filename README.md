@@ -1,4 +1,4 @@
-## 🎏 Pixelon | K33
+## 🎏 Pixelon
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
 <h3 align="left">:gem: Welcomee to the best Github profile!! 🥵 :p </h3>

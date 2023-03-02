@@ -98,7 +98,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](h
 <p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> </details>
 
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=httppixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=http-pixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
  <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (2).gif">

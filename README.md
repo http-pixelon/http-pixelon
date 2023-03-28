@@ -1,7 +1,6 @@
-## 🎏 Pixelon
+## :gem: Welcomee to the best Github profile!! 🥵 :p 
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
-<h3 align="left">:gem: Welcomee to the best Github profile!! 🥵 :p </h3>
 <ul>
 </div>
 

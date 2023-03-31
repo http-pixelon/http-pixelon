@@ -19,7 +19,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
      
 </ul>
 
-<img align="right" alt="PXN-gifs" src="./imgs_pxn/Pixelon.gif" width="15%" height="15%">
+<img align="right" alt="PXN-gifs" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%">
 
 :speech_balloon: Me adicione no Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
 <details> <summary><strong>🍡 Discord Details (Clique aqui)</strong></summary> <p align="left"> <h2>Veja o meu perfil do Discord!</h2> <div>

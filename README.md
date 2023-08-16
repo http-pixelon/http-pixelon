@@ -1,4 +1,7 @@
-## :gem: Welcomee to the best Github profile!! 🥵 :p 
+<h2 align='center'>
+    <code>🐝</code> ⁺ Oiis, Pixelon aqui! ↬
+</h2>
+
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
 <ul>
@@ -22,7 +25,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
 <img align="right" alt="PXN-gifs" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%"> <!-- Imagem feita em: https://picrew.me/ja/image_maker/338224  =D -->
 
 :speech_balloon: Me adicione no Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
-<details> <summary><strong>🍡 [ DISCORD PROFILE - CLIQUE AQUI ]</strong></summary> <p align="left"> <h2>📩 Contact me in extremely important situations. >.<</h2> <div>
+<details> <summary><strong>🍡 [ DISCORD PROFILE - CLIQUE AQUI ]</strong></summary> <p align="left"> <h2>📩 Contact me in extremely important situations. o.o</h2> <div>
     
   <a href="https://discord.com/users/230834721372766208" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/230834721372766208?bg=151515&borderRadius=5px" alt="Discord Status"/>
@@ -80,9 +83,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   ##
    
   [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.+>.>)](https://git.io/typing-svg)
    
-   <details> <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
+   <details> 
+      <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
 <p>200g de farinha de trigo sem fermento</p>
 <p>250 ml de água</p>
 <p>50g de manteiga</p>
@@ -100,7 +104,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](h
 <p>Deixe ferver.</p>
 <p>2. Logo que comece a ferver, retire a casca de limão e adicione a farinha.</p>
 <p>Mexa até descolar do tacho.</p>
-<p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> </details>
+<p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> 
+
+</details>
 
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=http-pixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
@@ -115,17 +121,21 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+random.)](h
 SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+minha+snake)](https://git.io/typing-svg) -->
    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <!-- Preciso fazer o meu. -->
- 
- </div>
-   
-   <h3 align="left">📌 REPOSITORIOS FAV. K33 </h3> <!-- Pq você está aqui ainda? suma daq random. -->
+
+ <div align="center">
+   <h3 align="center"><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui ainda? suma daq random. -->
    
    [![Card-PxnStats-K33-1](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/http-pixelon/PasswordGenerator-K33)
    [![Card-PxnStats-K33-2](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=ClonerSite-K33.py&theme=blue-green)](https://github.com/http-pixelon/ClonerSite-K33.py)
    [![Card-PxnStats-K33-3](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PixelBot.js-01K33&theme=blue-green)](https://github.com/http-pixelon/PixelBot.js-01K33)
    [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/http-pixelon/PasswordGenerator-K33)
    
-   ## GitHub Finale Pixelon >.<
+</div>
+   
+<div align="center">
+   
+   <h2> <code>↫ 🦑 ↬</code> ⁺ GitHub Finale Pixelon >.< </h2>
+</div>
 
 <p align = "center">
 <img src = "./imgs_pxn/imgsk33 (3).gif">

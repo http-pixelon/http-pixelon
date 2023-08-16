@@ -119,7 +119,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
    [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+minha+snake)](https://git.io/typing-svg) -->
    
-  ![Snake animation](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg)
 
  <div align="center">
    <h3 align="center"><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui ainda? suma daq random. -->

@@ -82,7 +82,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
    
   ##
    
-  [![TypingSVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+randola.+k+k+k+>.>)](https://git.io/typing-svg)
+  [![TypingSVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+randola+k+k+k+>.>)](https://git.io/typing-svg)
    
    <details> 
       <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>

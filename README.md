@@ -18,7 +18,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   <li>💻 | I'm very enthusiastic about JS and Python, every hour I'm...
   <li>🎨 | Ilustrador, Designer Geral.
   <li>:date: | I'm 19y old 
-  <li>🌍 | Moro em SC-Florianopolis....
+  <li>🌍 | I'm from Sao Paulo, Brazil.
      
 </ul>
 

@@ -121,8 +121,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+m
    
   <!-- ![Snake animation](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg) -->
 
-  https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.gif
-
   ![snake gif](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.gif)
 
  <div align="center">

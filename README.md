@@ -1,8 +1,8 @@
-<h2 align='center'>
+<h2 align='center' id="slwpxn">
     <code>🐝</code> ⁺ Oiis, Pixelon aqui! ↬
 </h2>
 
-   <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
+   <img id="slwpxn" align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
 <p align="center">
 <ul>
 </div>
@@ -22,7 +22,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
      
 </ul>
 
-<img align="right" alt="PXN-gifs" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%"> <!-- Imagem feita em: https://picrew.me/ja/image_maker/338224  =D -->
+<img align="right" id="slwpxn" alt="img_gif" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%"> <!-- Imagem feita em: https://picrew.me/ja/image_maker/338224  =D -->
 
 :speech_balloon: Add me on Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
 <details> <summary><strong>🍡 [ DISCORD PROFILE - CLIQUE AQUI ]</strong></summary> <p align="left"> <h2>📩 Contact me in extremely important situations. o.o</h2> <div>
@@ -37,9 +37,9 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
 <!-- Espero que você não esteja copiando nada meu. -->
 
 
-<div style="display: inline_block"><br>
+<div id="slwpxn" style="display: inline_block"><br>
    
- <a href="https://skillicons.dev">
+ <a id="slwpxn" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git"/>
     <img src="https://skillicons.dev/icons?i=html"/>
     <img src="https://skillicons.dev/icons?i=css"/>
@@ -73,11 +73,11 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   
   <div> 
    <!-- Pare mano, não copie nada. vaza! -->
-    <a href="https://www.youtube.com/channel/UC5DwmqzgzWo2Jqbbh3-TixA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
-    <a href="https://www.instagram.com/http_pixelon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
- 	  <a href="https://www.twitch.tv/http_pixelon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
+    <a id="slwpxn" href="https://www.youtube.com/channel/UC5DwmqzgzWo2Jqbbh3-TixA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/http_pixelon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ 	  <a href="https://www.twitch.tv/http_pixelon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
     <a href = "mailto:AindaNao"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/pixelon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!-- PXN-Account -->
+    <a href="https://www.linkedin.com/in/pixelon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <!-- <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@Pixelon%233321-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Conta do Pixelon" /></a> -->
    
   ##
@@ -119,7 +119,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
    [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+minha+snake)](https://git.io/typing-svg) -->
    
-  ![Snake animation](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg) 
 
  <div align="center">
    <h3 align="center"><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui ainda? suma daq random. -->

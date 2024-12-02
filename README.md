@@ -24,7 +24,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
 
 <img align="right" alt="PXN-gifs" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%"> <!-- Imagem feita em: https://picrew.me/ja/image_maker/338224  =D -->
 
-:speech_balloon: Me adicione no Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
+:speech_balloon: Add me on Discord: [`! Pixelon#2947`](https://discord.com/users/230834721372766208)
 <details> <summary><strong>🍡 [ DISCORD PROFILE - CLIQUE AQUI ]</strong></summary> <p align="left"> <h2>📩 Contact me in extremely important situations. o.o</h2> <div>
     
   <a href="https://discord.com/users/230834721372766208" target="_blank">
@@ -85,7 +85,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=Hi!+Meu+nome+é+
   [![TypingSVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=vaza+randola+k+k+k+>.>)](https://git.io/typing-svg)
    
    <details> 
-      <summary>👑 Details About Me (Clique aqui)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
+      <summary>👑 Details About Me (Click here)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
 <p>200g de farinha de trigo sem fermento</p>
 <p>250 ml de água</p>
 <p>50g de manteiga</p>

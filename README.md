@@ -117,8 +117,8 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+m
 
    
 <div align="center">
-   <h3><code>↫ 🦑 ↬</code> ⁺ GitHub Finale Pixelon >.< </h3> <!-- Pq você está aqui? -->
-   <p align="center"> Chegamos ao fim! </p>
+   <h3><code>↫ 🦑 ↬</code> ⁺ GitHub Finale Pixelon >.> </h3> <!-- Pq você está aqui? -->
+   <p align="center"> WoW, Chegamos ao fim! </p>
 </div>
 
 <p align = "center">

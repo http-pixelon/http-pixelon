@@ -12,7 +12,7 @@
 > *I love programming*, it's a passion I've had since I was young, I've always enjoyed playing with code and seeing how things work. _Programming_ allows me to create something from scratch and see my ideas come true.
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Meu+nome+é+Kauã.+UwU)] (https://git.io/typing-svg)
+SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Meu+nome+é+Kauã.+UwU)](https://git.io/typing-svg)
 
   <li>👑 | Founder and CEO of SlowPixels™ .
   <li>💻 | I'm very enthusiastic about JS and Python, every hour I'm...

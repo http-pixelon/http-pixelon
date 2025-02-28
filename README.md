@@ -1,5 +1,5 @@
 <h2 align='center' id="slwpxn">
-    <code>🐝</code> ⁺ Oi, Pixelon aqui... ↬
+    <code>🦑</code> ⁺ Oi, Pixelon aqui... ↬
 </h2>
 
    <img id="slwpxn" align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">
@@ -16,9 +16,9 @@
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Eu+sou+o+Kauã.+UwU)](https://git.io/typing-svg)⠀⠀
 
   <li>👑 | Founder and CEO of SlowPixels™ .
-  <li>💻 | I'm very enthusiastic about JS and Python, every hour I'm...
+  <li>💻 | Im very enthusiastic about JS and Python, every hour I'm...
   <li>🎨 | Ilustrador, Designer Geral.
-  <li>:date: | I'm 19y old 
+  <li>:date: | I'm 21y old 
   <li>🌍 | I'm from Sao Paulo, Brazil.
      
 </ul>
@@ -38,23 +38,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Eu+sou+
 <!-- Espero que você não esteja copiando nada meu. -->
 
 
-<div id="slwpxn" style="display: inline_block"><br>
-   
- <a id="slwpxn" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git"/>
-    <img src="https://skillicons.dev/icons?i=html"/>
-    <img src="https://skillicons.dev/icons?i=css"/>
-    <img src="https://skillicons.dev/icons?i=js"/>
-    <img src="https://skillicons.dev/icons?i=nodejs"/>
-    <img src="https://skillicons.dev/icons?i=typescript"/>
-    <img src="https://skillicons.dev/icons?i=python"/>
-    <img src="https://skillicons.dev/icons?i=react"/>
-    <img src="https://skillicons.dev/icons?i=linux"/>
-    <img src="https://skillicons.dev/icons?i=mongodb"/>
-    <img src="https://skillicons.dev/icons?i=blender"/>
-   
-    
-</div>
+<div style="display: inline_block" id="slwpxn">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,typescript,python,react,linux,mongodb,blender" />
+    </a>
    
 
 <!--
@@ -73,7 +60,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Eu+sou+
   ##
   
   <div> 
-   <!-- Pare mano, não copie nada. vaza! -->
+   <!-- Oi? tudo bem ? -->
     <a id="slwpxn" href="https://www.youtube.com/channel/UC5DwmqzgzWo2Jqbbh3-TixA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/http_pixelon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  	  <a href="https://www.twitch.tv/http_pixelon" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
@@ -82,40 +69,22 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Eu+sou+
    <!-- <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-@Pixelon%233321-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Conta do Pixelon" /></a> -->
    
   ##
-   
-  [![TypingSVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=👊+oi,+vaza+randola+k+k+k+>.>)](https://git.io/typing-svg)
-   
-   <details> 
-      <summary>👑 Details About Me (Click here)</summary> <p align="left"> <h2>Como este perfil tem coisas interessante vou ensinar a fazer churros:</h2> <ul> <li><strong>Ingredientes:</strong>
-<p>200g de farinha de trigo sem fermento</p>
-<p>250 ml de água</p>
-<p>50g de manteiga</p>
-<p>1 Casquinha de limão</p>
-<p>Sal q.b.</p>
-<p>3 ovos</p>
-<p>Óleo para fritar</p>
-<p>Açúcar para polvilhar</p>
-<p>Canela para polvilhar</p>
-      
-<strong>Preparação:</strong>
-<p>1. Num tacho leve ao lume a água.</p>
-<p>Tempere com umas pedrinhas de sal.</p>
-<p>Junte a casca de limão e a manteiga.</p>
-<p>Deixe ferver.</p>
-<p>2. Logo que comece a ferver, retire a casca de limão e adicione a farinha.</p>
-<p>Mexa até descolar do tacho.</p>
-<p>Coloque a massa numa tigela e deixe arrefecer um pouco.</p></li> </ul> </p> 
+<h3 align="center"><code>↫ 📌 ↬</code> ⁺ GITHUB STATS : PIXELON ↬</h3> 
+<p align="center"> Explore minhas estatísticas, Uma visão detalhada das minhas contribuições e repositórios. </p>
 
-</details>
-
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=http-pixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
- <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=👊+oi,+tudo+bem?+ok+agora+vaza+randola...+>.>" alt="Typing SVG">
+  </a>
+</p>
    <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (2).gif">
 
-<div>
- 
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=http-pixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
+
+   
    <!--
    [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+minha+snake)](https://git.io/typing-svg) -->
@@ -124,23 +93,65 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+m
 
   <!-- ![snake gif](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg) -->
 
- <div align="center">
-   <h3 align="center"><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui ainda? suma daq random. -->
-   
-   [![Card-PxnStats-K33-1](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/http-pixelon/PasswordGenerator-K33)
-   [![Card-PxnStats-K33-2](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=ClonerSite-K33.py&theme=blue-green)](https://github.com/http-pixelon/ClonerSite-K33.py)
-   [![Card-PxnStats-K33-3](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PixelBot.js-01K33&theme=blue-green)](https://github.com/http-pixelon/PixelBot.js-01K33)
-   [![Card-PxnStats-K33-4](https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green)](https://github.com/http-pixelon/PasswordGenerator-K33)
-   
+<div align="center">
+   <h3><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui? -->
+   <p align="center"> Explore meus repositorios e projetos feito por mim. </p>
 </div>
    
 <div align="center">
+   <p>
+     <a href="https://github.com/http-pixelon/PasswordGenerator-K33">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green" alt="Card-PxnStats-K33-1">
+     </a>
+     <a href="https://github.com/http-pixelon/ClonerSite-K33.py">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=ClonerSite-K33.py&theme=blue-green" alt="Card-PxnStats-K33-2">
+     </a>
+     <a href="https://github.com/http-pixelon/PixelBot.js-01K33">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PixelBot.js-01K33&theme=blue-green" alt="Card-PxnStats-K33-3">
+     </a>
+     <a href="https://github.com/http-pixelon/PasswordGenerator-K33">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green" alt="Card-PxnStats-K33-4">
+     </a>
+   </p>
+</div>
+
    
-   <h2> <code>↫ 🦑 ↬</code> ⁺ GitHub Finale Pixelon >.< </h2>
+<div align="center">
+   <h3><code>↫ 🦑 ↬</code> ⁺ GitHub Finale Pixelon >.< </h3> <!-- Pq você está aqui? -->
+   <p align="center"> Chegamos ao fim! </p>
 </div>
 
 <p align = "center">
 <img src = "./imgs_pxn/imgsk33 (3).gif">
   </p>
+
+  <details align="center"> 
+  <summary><h1><code>👑 • Clique aqui⠀:)</code></h1></summary>
+  <p align="center">
+    <h2><code>↫ 🥨 ↬</code> Como este perfil tem diversas coisas interessantes <br> Irei te ensinar a como fazer churros:</h2>
+    <ul>
+      <p><strong>Ingredientes:</strong></p>
+      <p>- 200g de farinha de trigo sem fermento</p>
+      <p>- 250 ml de água</p>
+      <p>- 50g de manteiga</p>
+      <p>- 1 Casquinha de limão</p>
+      <p>- Sal q.b. (Sal quanto baste)</p>
+      <p>- 3 ovos</p>
+      <p>- Óleo para fritar</p>
+      <p>- Açúcar para polvilhar</p>
+      <p>- Canela para polvilhar</p>
+        ⠀
+      <p><strong>Preparação:</strong></p>
+      <p>- 1. Num tacho leve ao lume a água.</p>
+      <p>- Tempere com umas pedrinhas de sal.</p>
+      <p>- Junte a casca de limão e a manteiga.</p>
+      <p>- Deixe ferver.</p>
+      <p>- 2. Logo que comece a ferver, retire a casca de limão e adicione a farinha.</p>
+      <p>- Mexa até descolar do tacho.</p>
+      <p>- Coloque a massa numa tigela e deixe arrefecer um pouco.</p>
+    </ul>
+  </p>
+</details>
+<!-- <p align="center">Não aperte no botão acima.</p> -->
+
 <!-- Script completo feito por Pixelon. -->
-<!-- by pixelon -->

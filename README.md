@@ -78,10 +78,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Oi!+Me+cham
     <img src="https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=👊+oi,+tudo+bem?+ok+agora+vaza+randola...+>.>" alt="Typing SVG">
   </a>
 </p>
-   <img align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (2).gif">
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=http-pixelon&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img align="right" alt="PXN-gifs" src="https://cdn.discordapp.com/attachments/749020531004670012/886773380538302524/Untitled_4.png"> -->
 
    
@@ -132,5 +129,10 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+m
   </p>
 </details>
 <!-- <p align="center">Não aperte no botão acima.</p> -->
+
+<p align = "center">
+<img alt="PXN-gifs" src="./imgs_pxn/imgsk33 (2).gif">
+  </p>
+  
 
 <!-- Script completo feito por Pixelon. -->

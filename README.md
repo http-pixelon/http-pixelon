@@ -13,7 +13,7 @@
 
 
 ⠀⠀[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Eu+sou+o+Kauã.+UwU)](https://git.io/typing-svg)⠀⠀
+SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Me+chamo+Kauã.)](https://git.io/typing-svg)⠀⠀
 
   <li>👑 | Founder and CEO of SlowPixels™ .
   <li>💻 | Im very enthusiastic about JS and Python, every hour I'm...

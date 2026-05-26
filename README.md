@@ -25,7 +25,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Oi!+Me+cham
 </ul>
 
 [![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=🦑+Se!+Voce+clicou+o+sistema+percebeu.)](https://git.io/typing-svg)⠀⠀
+SVG](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=🦑+Se+Voce+clicou+o+sistema+percebeu....)](https://git.io/typing-svg)⠀⠀
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=🦑+Meus+links+não+perdoam+curiosos.)](https://git.io/typing-svg)⠀⠀
 <img align="right" id="slwpxn" alt="img_gif" src="./imgs_pxn/Pixelon.gif" width="20%" height="20%"> <!-- Imagem feita em: https://picrew.me/ja/image_maker/338224  =D -->

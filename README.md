@@ -13,7 +13,7 @@
 
 
 ⠀⠀[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Hi!+Me+chamo+Kauã.)](https://git.io/typing-svg)⠀⠀
+SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=🦑+Oi!+Me+chamo+Kauã.)](https://git.io/typing-svg)⠀⠀
 
   <li>👑 | Founder and CEO of SlowPixels™ .
   <li>💻 | Im very enthusiastic about JS and Python, every hour I'm...
@@ -93,27 +93,6 @@ SVG](https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=nao+mexa+com+a+m
 
   <!-- ![snake gif](https://github.com/http-pixelon/http-pixelon/blob/output/github-contribution-grid-snake.svg) -->
 
-<div align="center">
-   <h3><code>↫ 📌 ↬</code> ⁺ REPOSITORIOS FAV. K33 ↬</h3> <!-- Pq você está aqui? -->
-   <p align="center"> Explore meus repositorios e projetos feito por mim. </p>
-</div>
-   
-<div align="center">
-   <p>
-     <a href="https://github.com/http-pixelon/PasswordGenerator-K33">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green" alt="Card-PxnStats-K33-1">
-     </a>
-     <a href="https://github.com/http-pixelon/ClonerSite-K33.py">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=ClonerSite-K33.py&theme=blue-green" alt="Card-PxnStats-K33-2">
-     </a>
-     <a href="https://github.com/http-pixelon/PixelBot.js-01K33">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PixelBot.js-01K33&theme=blue-green" alt="Card-PxnStats-K33-3">
-     </a>
-     <a href="https://github.com/http-pixelon/PasswordGenerator-K33">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=http-pixelon&repo=PasswordGenerator-K33&theme=blue-green" alt="Card-PxnStats-K33-4">
-     </a>
-   </p>
-</div>
 
    
 <div align="center">

@@ -1,5 +1,5 @@
 <h2 align='center' id="slwpxn">
-    <code>🦑</code> ⁺ Oi, Pixelon aqui... ↬
+    <code>🦑</code> ⁺ Pixelon aqui. ↬
 </h2>
 
    <img id="slwpxn" align="right" alt="PXN-gifs" src="./imgs_pxn/imgsk33 (1).gif">

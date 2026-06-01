@@ -80,7 +80,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ff0000&lines=🦑+Meus+links+
 <p align="center">
     
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=👊+oi,+tudo+bem?+ok+agora+vaza+randola...+>.>" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=18ffc0&lines=👊+ok+agora+vaza+randola...+>.>" alt="Typing SVG">
   </a>
 </p>
 
